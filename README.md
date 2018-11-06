@@ -8,6 +8,6 @@ If you want to run the project , you'll need:
 
 Java 1.7+
 Maven 3.0.5 or later
-You can download [maven] here(https://maven.apache.org/download.cgi). 
+Here You can download [maven](https://maven.apache.org/download.cgi). 
 Run Maven, specifying a location into which the completed Maven distro should be installed:
 mvn -DdistributionTargetDir="$HOME/app/maven/apache-maven-3.5.x-SNAPSHOT" clean package
