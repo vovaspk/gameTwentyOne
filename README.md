@@ -3,6 +3,7 @@ This is a simple consonle simulate of a popular card game "Twenty one", the poin
 You are playing against computer, at the start of the game you have 2 random cards from deck of cards and computer has, 
 during the game you have to choose your options. You may have to pick more card or stay with yours.
 
+# Quick Build
 If you want to run the project , you'll need:
 
 Java 1.7+
